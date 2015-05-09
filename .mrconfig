@@ -1,68 +1,68 @@
-[gitstats]
-checkout = git clone https://github.com/hoxu/gitstats.git gitstats
+[android-phoneprofiles]
+checkout = git clone https://github.com/hoxu/android-phoneprofiles.git android-phoneprofiles
+
+[dhclient-tun6to4-exit-hook]
+checkout = git clone https://github.com/hoxu/dhclient-tun6to4-exit-hook.git dhclient-tun6to4-exit-hook
+
+[dokuwiki2git]
+checkout = git clone https://github.com/hoxu/dokuwiki2git.git dokuwiki2git
+
+[dokuwiki-piwik]
+checkout = git clone https://gitlab.com/dokuwiki-piwik/dokuwiki-piwik.git dokuwiki-piwik
+
+[encrb]
+checkout = git clone https://github.com/hoxu/encrb.git encrb
 
 [encreecia]
 checkout = git clone https://gitlab.com/encreecia/encreecia.git encreecia
+
+[encreecia-javafx]
+checkout = git clone https://gitlab.com/encreecia/encreecia-javafx.git encreecia-javafx
+
+[gitstats]
+checkout = git clone https://github.com/hoxu/gitstats.git gitstats
+
+[greasemonkey-agilezen-fastfilter]
+checkout = git clone https://github.com/hoxu/android-phoneprofiles.git greasemonkey-agilezen-fastfilter
+
+[greasemonkey-elisaviihde-url]
+checkout = git clone https://gitlab.com/greasemonkey-elisaviihde-url/greasemonkey-elisaviihde-url.git greasemonkey-elisaviihde-url
+
+[html5gameoflife]
+checkout = git clone https://github.com/hoxu/html5gameoflife.git html5gameoflife
+
+[ircrpg]
+checkout = git clone https://gitlab.com/ircrpg/ircrpg.git ircrpg
+
+[irssi-scripts]
+checkout = git clone https://github.com/hoxu/irssi-scripts.git irssi-scripts
+
+[lainalaskuri]
+checkout = git clone https://github.com/hoxu/lainalaskuri.git lainalaskuri
+
+[opetushallitus/aipal]
+checkout = git clone https://github.com/Opetushallitus/aipal aipal
+
+[opetushallitus/aituaipaljs]
+checkout = git clone https://github.com/Opetushallitus/aituaipaljs aituaipaljs
+
+[opetushallitus/aitu]
+checkout = git clone https://github.com/Opetushallitus/aitu aitu
+
+[opetushallitus/aituhaku]
+checkout = git clone https://github.com/Opetushallitus/aituhaku aituhaku
+
+[opetushallitus/osaan.fi]
+checkout = git clone https://github.com/Opetushallitus/osaan.fi osaan.fi
+
+[supybook]
+checkout = git clone https://github.com/hoxu/supybook.git supybook
+
+[supybot-raamattu]
+checkout = git clone https://github.com/hoxu/supybot-raamattu.git supybot-raamattu
 
 [viewgit]
 checkout = git clone https://gitlab.com/viewgit/mainline.git viewgit
 
 [viewsvn]
 checkout = git clone https://gitlab.com/viewsvn/viewsvn.git viewsvn
-
-[supybook]
-checkout = git clone https://github.com/hoxu/supybook.git supybook
-
-[dokuwiki-piwik]
-checkout = git clone https://gitlab.com/dokuwiki-piwik/dokuwiki-piwik.git dokuwiki-piwik
-
-[dokuwiki2git]
-checkout = git clone https://github.com/hoxu/dokuwiki2git.git dokuwiki2git
-
-[html5gameoflife]
-checkout = git clone https://github.com/hoxu/html5gameoflife.git html5gameoflife
-
-[android-phoneprofiles]
-checkout = git clone https://github.com/hoxu/android-phoneprofiles.git android-phoneprofiles
-
-[greasemonkey-agilezen-fastfilter]
-checkout = git clone https://github.com/hoxu/android-phoneprofiles.git greasemonkey-agilezen-fastfilter
-
-[encrb]
-checkout = git clone https://github.com/hoxu/encrb.git encrb
-
-[greasemonkey-elisaviihde-url]
-checkout = git clone https://gitlab.com/greasemonkey-elisaviihde-url/greasemonkey-elisaviihde-url.git greasemonkey-elisaviihde-url
-
-[irssi-scripts]
-checkout = git clone https://github.com/hoxu/irssi-scripts.git irssi-scripts
-
-[ircrpg]
-checkout = git clone https://gitlab.com/ircrpg/ircrpg.git ircrpg
-
-[lainalaskuri]
-checkout = git clone https://github.com/hoxu/lainalaskuri.git lainalaskuri
-
-[encreecia-javafx]
-checkout = git clone https://gitlab.com/encreecia/encreecia-javafx.git encreecia-javafx
-
-[dhclient-tun6to4-exit-hook]
-checkout = git clone https://github.com/hoxu/dhclient-tun6to4-exit-hook.git dhclient-tun6to4-exit-hook
-
-[supybot-raamattu]
-checkout = git clone https://github.com/hoxu/supybot-raamattu.git supybot-raamattu
-
-[opetushallitus/aituaipaljs]
-checkout = git clone https://github.com/Opetushallitus/aituaipaljs aituaipaljs
-
-[opetushallitus/aituhaku]
-checkout = git clone https://github.com/Opetushallitus/aituhaku aituhaku
-
-[opetushallitus/aitu]
-checkout = git clone https://github.com/Opetushallitus/aitu aitu
-
-[opetushallitus/osaan.fi]
-checkout = git clone https://github.com/Opetushallitus/osaan.fi osaan.fi
-
-[opetushallitus/aipal]
-checkout = git clone https://github.com/Opetushallitus/aipal aipal
