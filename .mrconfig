@@ -55,6 +55,9 @@ checkout = git clone https://github.com/Opetushallitus/aituhaku aituhaku
 [opetushallitus/osaan.fi]
 checkout = git clone https://github.com/Opetushallitus/osaan.fi osaan.fi
 
+[scala-simplerx]
+checkout = git clone https://github.com/hoxu/scala-simplerx scala-simplerx
+
 [supybook]
 checkout = git clone https://github.com/hoxu/supybook.git supybook
 
