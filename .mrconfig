@@ -1,6 +1,9 @@
 [android-phoneprofiles]
 checkout = git clone https://github.com/hoxu/android-phoneprofiles.git android-phoneprofiles
 
+[contrib/voluptuous]
+checkout = git clone https://github.com/alecthomas/voluptuous voluptuous
+
 [dhclient-tun6to4-exit-hook]
 checkout = git clone https://github.com/hoxu/dhclient-tun6to4-exit-hook.git dhclient-tun6to4-exit-hook
 
