@@ -55,6 +55,9 @@ checkout = git clone https://github.com/Opetushallitus/aitu aitu
 [opetushallitus/aituhaku]
 checkout = git clone https://github.com/Opetushallitus/aituhaku aituhaku
 
+[opetushallitus/clojure-utils]
+checkout = git clone https://github.com/opetushallitus/clojure-utils clojure-utils
+
 [opetushallitus/osaan.fi]
 checkout = git clone https://github.com/Opetushallitus/osaan.fi osaan.fi
 
