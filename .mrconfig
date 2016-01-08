@@ -4,6 +4,9 @@ checkout = git clone https://github.com/hoxu/android-phoneprofiles.git android-p
 [csc-it-center-for-science/avop]
 checkout = git clone https://github.com/CSC-IT-Center-for-Science/avop avop
 
+[contrib/ansible]
+checkout = git clone https://github.com/ansible/ansible ansible
+
 [contrib/voluptuous]
 checkout = git clone https://github.com/alecthomas/voluptuous voluptuous
 
