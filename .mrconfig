@@ -28,6 +28,9 @@ checkout = git clone https://gitlab.com/encreecia/encreecia.git encreecia
 [encreecia-javafx]
 checkout = git clone https://gitlab.com/encreecia/encreecia-javafx.git encreecia-javafx
 
+[git-big]
+checkout = git clone https://github.com/hoxu/git-big git-big
+
 [gitstats]
 checkout = git clone https://github.com/hoxu/gitstats.git gitstats
 
