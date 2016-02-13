@@ -76,6 +76,9 @@ checkout = git clone https://github.com/hoxu/osx-dev-playbook osx-dev-playbook
 [scala-simplerx]
 checkout = git clone https://github.com/hoxu/scala-simplerx scala-simplerx
 
+[solita/ansible-role-solita.jenkins]
+checkout = git clone https://github.com/solita/ansible-role-solita.jenkins ansible-role-solita.jenkins
+
 [supybook]
 checkout = git clone https://github.com/hoxu/supybook.git supybook
 
