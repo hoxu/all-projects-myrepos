@@ -7,6 +7,9 @@ checkout = git clone https://github.com/CSC-IT-Center-for-Science/avop avop
 [contrib/ansible]
 checkout = git clone https://github.com/ansible/ansible ansible
 
+[contrib/compojure-api]
+checkout = git clone https://github.com/metosin/compojure-api compojure-api
+
 [contrib/voluptuous]
 checkout = git clone https://github.com/alecthomas/voluptuous voluptuous
 
