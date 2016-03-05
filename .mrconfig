@@ -38,7 +38,7 @@ checkout = git clone https://github.com/hoxu/git-big git-big
 checkout = git clone https://github.com/hoxu/gitstats.git gitstats
 
 [greasemonkey-agilezen-fastfilter]
-checkout = git clone https://github.com/hoxu/android-phoneprofiles.git greasemonkey-agilezen-fastfilter
+checkout = git clone https://gitlab.com/greasemonkey-agilezen-fastfilter/greasemonkey-agilezen-fastfilter.git greasemonkey-agilezen-fastfilter
 
 [greasemonkey-elisaviihde-url]
 checkout = git clone https://gitlab.com/greasemonkey-elisaviihde-url/greasemonkey-elisaviihde-url.git greasemonkey-elisaviihde-url
